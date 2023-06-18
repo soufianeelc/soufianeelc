@@ -10,7 +10,7 @@
   <a href="https://linkedin.com/in/soufianeelc" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Let's connect&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="twitter.com/soufianeeelc" target="_blank">
+  <a href="https://twitter.com/soufianeeelc" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Follow me on Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
   <a href="mailto:elcouay@outlook.COM" target="_blank">
@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m a Front-end developer<br>- 📚 I'm currently learning full-stack technologies<br>- ⚡ Building <a href="https://brexiathemes.vercel.app">Brexia Themes </a> in public </p>
+<p align="left">- 🔭 I’m a Front-end developer<br>- 📚 I'm currently learning full-stack technologies<br>- ⚡ Building <a href="https://brexiathemes.vercel.app" target="_blank">Brexia Themes </a> in public </p>
 
 ###
 
