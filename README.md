@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m a Front-end developer<br>- 📚 I'm currently learning full-stack technologies<br>- ⚡ Building brexiathemes.vercel.app</p>
+<p align="left">- 🔭 I’m a Front-end developer<br>- 📚 I'm currently learning full-stack technologies<br>- ⚡ Building <a href="brexiathemes.vercel.app">Brexia Themes </a> in public </p>
 
 ###
 
