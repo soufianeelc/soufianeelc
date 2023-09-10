@@ -1,9 +1,5 @@
 <br clear="both">
 
-<div align="center">
-  <img height="150" src="https://pbs.twimg.com/profile_images/1647563867675828227/pH0F1hNr_400x400.jpg"  />
-</div>
-
 ###
 
 <div align="center">
