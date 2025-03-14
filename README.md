@@ -16,10 +16,3 @@ Hey there! 👋 I'm Soufiane, a Front-End Developer passionate about building we
 
 Feel free to explore more about my projects and contributions on my [personal website](https://soufianeelc.me).
 
-## 🚀 Looking for New Opportunities
-
-I'm currently seeking new opportunities. If you're interested in collaborating or have a project in mind, don't hesitate to reach out!
-
-Alternatively, you can explore working with me by hiring my services on [Upwork](https://www.upwork.com/freelancers/~01bac4a953c85355b2).
-
-Let's build something great together!
